@@ -1,0 +1,17 @@
+body {
+        background: url(../imagenes/fondo.jpg) NO-REPEAT CENTER FIXED;
+        -WEBKIT-BACKGROUND-SIZE: COVER;
+        -MOZ-BACKGROUND-SIZE: COVER;
+        BACKGROUND-SIZE: COVER;
+}
+
+.titulo{
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+
+@font-face{
+  font-family: "fuenteletra";
+  src:url("../fuentes/VLADIMIR.TTF");
+}
