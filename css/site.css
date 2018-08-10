@@ -11,7 +11,21 @@ body {
     text-align: center;
 }
 
-@font-face{
+.navbar-logo {
+  /* display: inline-block; */
+  /* padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap; */
+
+    display:absolute;
+    max-width: 200px;
+    margin: 0 auto;
+    width: 100%;
+}
+/* @font-face{
   font-family: "fuenteletra";
   src:url("../fuentes/VLADIMIR.TTF");
-}
+} */
