@@ -1,5 +1,6 @@
 body {
-        background: url(../imagenes/fondo.jpg) NO-REPEAT CENTER FIXED;
+        /*background: url(../imagenes/fondo.jpg) NO-REPEAT CENTER FIXED;*/
+        background-color: #B43B3A;
         -WEBKIT-BACKGROUND-SIZE: COVER;
         -MOZ-BACKGROUND-SIZE: COVER;
         BACKGROUND-SIZE: COVER;
